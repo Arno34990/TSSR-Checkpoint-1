@@ -38,7 +38,7 @@ Malgré le prix élevé de 100$, il a dit "Bonjour !" au vendeur :
 - "Evidemment !"
 ```
 
-```bash
+```
 #!/bin/bash
 
 echo "Malgré le prix élevé de 100$, il a dit \"Bonjour !\" au vendeur :"
