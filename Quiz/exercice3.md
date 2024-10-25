@@ -65,10 +65,10 @@ wilder@Ubuntu:~$ jobs -l
 
 #### 8. Quels sont les équivalent PowerShell des commandes bash cd, cp, mkdir, ls.
 
-**cd:** Set-Location
-**cp:** Copy-Item
-**mkdir:** New-Item
-**ls:** Get-ChildItem
+**cd:** Set-Location  
+**cp:** Copy-Item  
+**mkdir:** New-Item  
+**ls:** Get-ChildItem  
 
 #### 9. Dans la trame ethernet, qu'est-ce que le payload ?
 
