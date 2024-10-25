@@ -38,7 +38,15 @@ Malgré le prix élevé de 100$, il a dit "Bonjour !" au vendeur :
 - "Evidemment !"
 ```
 
+```bash
+#!/bin/bash
 
+echo "Malgré le prix élevé de 100$, il a dit \"Bonjour !\" au vendeur :"
+echo "- \"Bonjour est-ce que ce clavier fonctionne bien ?\""
+echo "- \"Evidemment ! On peut tout écrire avec, que ce soit des pipe | ou bien des backslash \\\\ ! \""
+echo "- \"Même des tildes ~ ?\""
+echo "- \"Evidemment !\""
+```
 
 #### 6. La commande jobs -l donne le résultat ci-dessous :
 ```bash
