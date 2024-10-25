@@ -27,7 +27,7 @@ Lorsqu'on vas faire un "git add .", le fichier gitignore va faire en sorte que t
 
 #### 4. Quelles commandes git utiliser pour fusionner les branches main et test_valide ?
 
-
+?
 
 #### 5. Donne la(les) ligne(s) de commande(s) bash pour afficher le texte suivant :
 ```
@@ -57,18 +57,23 @@ wilder@Ubuntu:~$ jobs -l
 ```
 #### Quelle commande te permet de mettre en avant le processus gedit ?
 
-
+?
 
 #### 7. Quels matériels réseaux sont sur la couche 2 et la couche 3 du modèle OSI ? Donne leurs spécificités.
 
-
+?
 
 #### 8. Quels sont les équivalent PowerShell des commandes bash cd, cp, mkdir, ls.
 
-
+**cd:** Set-Location
+**cp:** Copy-Item
+**mkdir:** New-Item
+**ls:** Get-ChildItem
 
 #### 9. Dans la trame ethernet, qu'est-ce que le payload ?
 
-
+Le payload extrait les infos de la trame ethernet dont les infos contient les données réellement qui communique entre different appareil
 
 #### 10. Pourquoi les classes IP sont remplacées par le CIDR ?
+
+?
