@@ -27,7 +27,9 @@ Lorsqu'on vas faire un "git add .", le fichier gitignore va faire en sorte que t
 
 #### 4. Quelles commandes git utiliser pour fusionner les branches main et test_valide ?
 
-?
+```
+git merge test_valide
+```
 
 #### 5. Donne la(les) ligne(s) de commande(s) bash pour afficher le texte suivant :
 ```
